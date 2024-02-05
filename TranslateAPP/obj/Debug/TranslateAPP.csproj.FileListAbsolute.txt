@@ -1,0 +1,16 @@
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\TranslateAPP.exe.config
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\TranslateAPP.exe
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\TranslateAPP.pdb
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.Properties.Resources.resources
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.csproj.GenerateResource.cache
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.exe
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.pdb
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.csproj.CopyComplete
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\obj\Debug\TranslateAPP.Main.resources
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Batın Eymen\source\repos\TranslateAPP\TranslateAPP\bin\Debug\Newtonsoft.Json.Bson.xml
